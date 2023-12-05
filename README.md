@@ -15,13 +15,16 @@ Courses for switching developers of Ukrainian Rust community (https://github.com
 **Previous job:**  
 Ukrainian Scientific Centre of Ecology of the Sea, senior researcher  
 
+**Current job:**  
+SS Software, junior developer  
+
 **Non-commercial experience:**
 
 **Game development:** https://saaadgames.com/ - participating in development of game engine and interface (January 2022 - present). Main crates used:  macroquad, rs-tiled, legion, egui.  
 
 **Embedded Rust:** Participating in Summer of Code 2022 of Knurling Team Ferrous Systems (August – October 2022) – creation of library which implements tftp protocol using embedded-nal crate. Main crates used: embedded-nal, embedded-hal.  
 
-**Other crates** which I have used: actix-web, reqwest, sqlx (with PostgreSQL), rusqlite (with SQLite), tokio, serde/serde-json, chrono/time, regex, nom, log, tracing, clap, config, async-graphql (with GraphQL).  
+**Other crates** which I have used: actix-web, reqwest, sqlx (with PostgreSQL), rusqlite (with SQLite), tokio, serde/serde-json, chrono/time, regex, nom, log, tracing, clap, config, async-graphql (with GraphQL), seaorm, WASM.  
 
 **Instruments** I have worked with: PostgreSQL, SQLite, Docker, Git.  
 
