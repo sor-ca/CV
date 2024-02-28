@@ -26,7 +26,7 @@ SS Software, junior developer
 
 **Embedded Rust:** Participating in Summer of Code 2022 of Knurling Team Ferrous Systems (August – October 2022) – creation of library which implements tftp protocol using embedded-nal crate. Main crates used: embedded-nal, embedded-hal.  
 
-**Other crates** which I have used: actix-web, reqwest, sqlx (with PostgreSQL), rusqlite (with SQLite), tokio, serde/serde-json, chrono/time, regex, nom, log, tracing, clap, config, async-graphql (with GraphQL), seaorm, WASM.  
+**Other crates** which I have used: actix-web, axum, reqwest, sqlx, rusqlite, tokio, serde/serde-json, chrono/time, regex, nom, log, tracing, clap, config, async-graphql (with GraphQL), seaorm, WASM.  
 
 **Instruments** I have worked with: PostgreSQL, SQLite, Docker, Git.  
 
