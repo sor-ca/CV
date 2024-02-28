@@ -10,8 +10,8 @@
 **Education:**  
 Odessa I.I. Mechnikov National University: Master’s degree, Microbiology  
 Schmalhausen Institute of Zoology of National Academy of Science of Ukraine: PhD, Entomology.  
-Courses for switching developers of Ukrainian Rust community
-https://www.credential.net/02482304-c22a-4b0f-9f4b-75a8fd26719b#gs.54zn9h
+Courses for switching developers of Ukrainian Rust community  
+https://www.credential.net/02482304-c22a-4b0f-9f4b-75a8fd26719b#gs.54zn9h  
 https://www.credential.net/cebb2832-6eba-481a-89fe-d421a4bb752b#gs.54zqjz  
 
 **Previous job:**  
@@ -32,7 +32,7 @@ till 2022: Ukrainian Scientific Centre of Ecology of the Sea, senior researcher
 **async and multithreading:** tokio  
 **parsing:** regex, nom, pest  
 **serializing and deserializing:** serde, serde-json  
-**tracing and logging:** log, tracing  
+**tracing and logging:** tracing  
 **CLI:** clap  
 **GraphQL server toolkit:** async-graphql  
 
