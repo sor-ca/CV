@@ -18,7 +18,7 @@ https://www.credential.net/cebb2832-6eba-481a-89fe-d421a4bb752b#gs.54zqjz
 Ukrainian Scientific Centre of Ecology of the Sea, senior researcher  
 
 **Current job:**  
-SS Software, junior developer  
+SS Software, junior developer  https://ss-software.in.ua/
 
 **Non-commercial experience:**
 
