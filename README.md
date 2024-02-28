@@ -10,7 +10,9 @@
 **Education:**  
 Odessa I.I. Mechnikov National University: Master’s degree, Microbiology  
 Schmalhausen Institute of Zoology of National Academy of Science of Ukraine: PhD, Entomology.  
-Courses for switching developers of Ukrainian Rust community (https://github.com/rust-lang-ua/rust_incubator_eng)  
+Courses for switching developers of Ukrainian Rust community
+https://www.credential.net/02482304-c22a-4b0f-9f4b-75a8fd26719b#gs.54zn9h
+https://www.credential.net/cebb2832-6eba-481a-89fe-d421a4bb752b#gs.54zqjz  
 
 **Previous job:**  
 Ukrainian Scientific Centre of Ecology of the Sea, senior researcher  
