@@ -6,6 +6,7 @@
 **github:** https://github.com/sor-ca  
 **linkedin:** https://www.linkedin.com/in/maria-grandova-b3a698259/  
 **Viber, Telegram** +380999134751  
+**Current location:** Varna, Bulgaria
 
 **Education:**  
 Odessa I.I. Mechnikov National University: Master’s degree, Microbiology  
